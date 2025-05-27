@@ -2,6 +2,12 @@
 
 This repository contains selected simulations and theoretical analyses from my coursework on **Neural Networks** for the Master in Advanced Physics in UNED (Curso de *Redes Neuronales* del Máster de Física Avanzada de la UNED). 
 
+## Notes
+
+- The document is written in Spanish.
+- The code in the appendix is also available as plain text inside the PDF, and may be extracted or reused for educational purposes.
+- The project is intended as a comprehensive review and self-contained study of introductory on Neural Networks.
+
 ## Project Highlights
 
 The most relevant parts of the project included in this repository are:
